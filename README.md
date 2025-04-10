@@ -39,3 +39,14 @@ This project is designed for **Boston-area homeless shelters and soup kitchens**
 
 ### 🧾 Full Project Repository  
 👉 [GitHub: iQuHack_DWave](https://github.com/NandeeneeSingh/iQuHack_DWave)
+
+---
+
+### 📁 Repository Contents  
+This repository contains all the code and data necessary for the project, including:
+
+- **Map**: A Folium-based interactive geospatial map that visualizes Boston's restaurants and shelters, with markers for each location.
+- **Map Code**: Python code used to generate the interactive map, implement the algorithms, and display the routes.
+- **CSV Files**: Geospatial data for the restaurants and shelters in Boston, stored in CSV format for easy access and analysis.
+  
+You can find all files in the repository to run the project locally, modify it for your own use, or integrate it into future initiatives.
